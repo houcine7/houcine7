@@ -77,8 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/houcine7/houcine7/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
