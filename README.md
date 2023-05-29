@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋! My name is  Lahoucine EL ADDALI</h1>
+<h1 align="left">Hi 👋! My name is  Lahoucine EL ADDALI</h1>
 
 ###
 
