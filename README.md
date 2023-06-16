@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=houcine7" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=houcine7" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=houcine7"/>
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=houcine7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
