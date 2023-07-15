@@ -1,6 +1,6 @@
 <h1 align="left">Hi there! 👋 I'm Lahoucine EL ADDALI</h1>
 
-<p align="left"><samp>I'm a passionate software engineering student, dedicated to learning and developing innovative solutions. With a strong foundation in programming and problem-solving, I strive to create elegant and efficient software applications. I have a keen interest in exploring cutting-edge technologies and contributing to projects that make a positive impact.</samp></p>
+<p align="left"><samp>I'm a passionate software engineering student, dedicated to learning and developing innovative solutions.</samp></p>
 
 <h3 align="left">MY GITHUB STATS</h3>
 
@@ -10,8 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=houcine7" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=houcine7" height="150" alt="languages graph"  />
 </div>
-
-<p align="center"><samp>Take a look at my GitHub stats and the programming languages I frequently work with. I'm committed to writing clean, maintainable code and continuously improving my skills.</samp></p>
 
 <br clear="both">
 
@@ -42,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="55" alt="docker logo"  />
 </div>
 
-<p align="center"><samp>These are some of the key skills I possess. From front-end technologies like JavaScript, React, and Angular to back-end technologies like Java, Node.js, and Spring, I enjoy working with a diverse tech stack to create robust and scalable applications.</samp></p>
+<p align="center"><samp>These are some of the key skills I possess.</samp></p>
 
 <h1 align="left">SOCIAL MEDIA</h1>
 
@@ -56,8 +54,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<p align="center"><samp>Feel free to reach out to me via Gmail or connect with me on LinkedIn. I'm always open to interesting conversations and collaboration opportunities!</samp></p>
 
 <h1 align="left">VIEWS</h1>
 
