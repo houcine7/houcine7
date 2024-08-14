@@ -1,6 +1,6 @@
 <h1 align="left">Hi there! 👋 I'm Lahoucine EL ADDALI</h1>
 
-<p align="left"><samp>I'm a passionate software engineering student, dedicated to learning and developing innovative solutions.</samp></p>
+<p align="left"><samp>I'm a passionate software engineer, dedicated to learning and developing innovative solutions.</samp></p>
 
 <h3 align="left">MY GITHUB STATS</h3>
 
@@ -60,5 +60,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/houcine7/count.svg?"  />
 </div>
-
-<p align="center"><samp>Thank you for visiting my GitHub profile! Your views are appreciated!</samp></p>
